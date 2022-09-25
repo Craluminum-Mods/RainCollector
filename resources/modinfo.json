@@ -1,5 +1,6 @@
 {
     "type": "code",
+    "side": "server",
     "modid": "raincollector",
     "name": "Rain Collector",
     "description": "Slowly fills liquid containers placed under the sky with water when it rains",
