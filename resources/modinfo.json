@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "raincollector",
+    "name": "Rain Collector",
+    "description": "Slowly fills liquid containers placed under the sky with water when it rains",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.17.0"
+    }
+}
